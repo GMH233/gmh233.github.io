@@ -1,0 +1,4 @@
+baseURL = 'https://gmh233.github.io/'
+languageCode = 'en-us'
+title = "gmh233's blog"
+theme = 'PaperMod'
